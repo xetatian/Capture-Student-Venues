@@ -8,8 +8,8 @@ Snapshots have been recorded for House and Working lights.
 
 -----Venues Included------
 
-Athenaeum Theatre - Warminster, Wiltshire
-Cheese and Grain - Frome, Somerset
-Frome Memorial Theatre - Frome, Somerset
-Salisbury Arts Center (Altar Stage) - Salisbury Wiltshire
-Salisbury Arts Center (Main Space) - Salisbury Wiltshire
+Athenaeum Theatre - Warminster, Wiltshire<br>
+Cheese and Grain - Frome, Somerset<br>
+Frome Memorial Theatre - Frome, Somerset<br>
+Salisbury Arts Center (Altar Stage) - Salisbury Wiltshire<br>
+Salisbury Arts Center (Main Space) - Salisbury Wiltshire<br>
