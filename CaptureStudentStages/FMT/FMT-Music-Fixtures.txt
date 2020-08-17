@@ -1,0 +1,20 @@
+Stage: FMT2020
+
+HL: A.72
+Workers: A.100 //not added
+
+FOH Wash: A.3, 6, 9, 12
+FOH Spots: A.2, 4, 5, 7, 8, 10, 11, 13
+FOH GOBOS: A.1, 14
+FOH Face: A.16
+
+Parbar: A.31 thru A.38
+Blinders: A.41 thru A.48
+
+Booms: A.49 thru A.55
+
+FOH Movers: ColorWash 1200E AT [2 units](17ch) A.201, A.218
+LED Pars: COLOdash Par-Quad 7 [12 units](10ch) A.300 thru A.410
+Beams: Alpha Beam 700 [4 units](22ch) A.420 thru A.486
+
+Starcloth: B.1 thru 4

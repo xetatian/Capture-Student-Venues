@@ -1,0 +1,10 @@
+Stage: Cheese and Grain
+
+
+Workers: A.1
+Houselights: A.2
+
+
+FOH: ColorWash 1200E AT [2 units](17ch) B.1 thru B.18
+Stage LED: COLORdash Par-Quad 7 [12 units](10ch) B.300 thru B.410
+Blinders: DTS Flash 8000 [4 units](1ch) B.50 thru B.53

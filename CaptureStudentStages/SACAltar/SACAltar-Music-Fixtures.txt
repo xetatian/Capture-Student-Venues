@@ -1,0 +1,11 @@
+Stage: SACAltar
+
+HL: A.1
+
+FOH Fresnels: A.2
+
+LED  Bars: COLORdash PAr-Quad 7 [6 units](10ch) A.101 thru A.151
+
+LED Roof: COLORdash PAr-Quad 7 [8 units](10ch) A.201 thru A.271
+
+LED Window: COLORdash PAr-Quad 7 [4 units](10ch) A.281

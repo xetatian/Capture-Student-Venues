@@ -1,0 +1,17 @@
+Stage: SACRig
+
+HL: A.151  
+
+FOH Wash:  A.1 thru A.4
+FOH Specials: A.20 thru A.25
+
+Gobos: A.15
+Pars Blue: A.16
+Pars Rose: A.17
+Pars White: A.18
+
+Blinders: A.51 thru A.54
+
+Stage Spots: Mac250 Entour [4 units](15ch) B.1 thru B.46
+LED Pars: COLORdash Par-Quad 7 [6 units](10ch) B.101 thru 151
+Stage Beams: Alpha Beam 700 [4 units](22ch) B.250 thru B.316

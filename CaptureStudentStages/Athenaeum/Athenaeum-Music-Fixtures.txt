@@ -1,0 +1,29 @@
+Stage: Athenaeum
+
+
+Workers: A.100
+HL: A.99
+
+FOH Warm: A.2
+FOH Cold: A.3
+FOH Gobos: A.1
+FOH Pars: A.11 thru A.13
+FOH Slips: A.14 thru A.16
+
+Codas: A.41 thru A.43
+
+Band Specials: A.21, A.22,  A.25, A.26, A.28, A.31
+Singer front: A.23, A.24
+Singer back: A.29, A.30
+
+
+Overhead Mauve: A.27, A.32
+Side Mauve: A.33
+Side Red: A.34
+
+Face Mauve: 35
+Face Blue: 36
+
+LED Pars: COLORdash Par-Quad 7 [4 units](10ch) B.1 thru B.31
+Martin Spots: Martin MAC 250 Entour [4 units](15ch) B.41 thru B.86
+Floor Wash: Platinum Wash ZFX151 Pro [2 units](32ch) B.101 thru B.133
